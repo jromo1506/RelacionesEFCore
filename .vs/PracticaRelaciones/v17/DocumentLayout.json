@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\ASP NET CORE Web API\\PracticaRelaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D97A8-EFA2-4D3F-BCC7-FD4E89DF922A}|PracticaRelaciones\\PracticaRelaciones.csproj|c:\\users\\admin\\desktop\\asp net core web api\\practicarelaciones\\practicarelaciones\\models\\practicarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9D97A8-EFA2-4D3F-BCC7-FD4E89DF922A}|PracticaRelaciones\\PracticaRelaciones.csproj|solutionrelative:practicarelaciones\\models\\practicarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D97A8-EFA2-4D3F-BCC7-FD4E89DF922A}|PracticaRelaciones\\PracticaRelaciones.csproj|c:\\users\\admin\\desktop\\asp net core web api\\practicarelaciones\\practicarelaciones\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9D97A8-EFA2-4D3F-BCC7-FD4E89DF922A}|PracticaRelaciones\\PracticaRelaciones.csproj|solutionrelative:practicarelaciones\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D97A8-EFA2-4D3F-BCC7-FD4E89DF922A}|PracticaRelaciones\\PracticaRelaciones.csproj|c:\\users\\admin\\desktop\\asp net core web api\\practicarelaciones\\practicarelaciones\\models\\detallesempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9D97A8-EFA2-4D3F-BCC7-FD4E89DF922A}|PracticaRelaciones\\PracticaRelaciones.csproj|solutionrelative:practicarelaciones\\models\\detallesempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 423,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetallesEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ASP NET CORE Web API\\PracticaRelaciones\\PracticaRelaciones\\Models\\DetallesEmpleado.cs",
+              "RelativeDocumentMoniker": "PracticaRelaciones\\Models\\DetallesEmpleado.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ASP NET CORE Web API\\PracticaRelaciones\\PracticaRelaciones\\Models\\DetallesEmpleado.cs",
+              "RelativeToolTip": "PracticaRelaciones\\Models\\DetallesEmpleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:44:32.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 567,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ASP NET CORE Web API\\PracticaRelaciones\\PracticaRelaciones\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "PracticaRelaciones\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ASP NET CORE Web API\\PracticaRelaciones\\PracticaRelaciones\\Models\\Empleado.cs",
+              "RelativeToolTip": "PracticaRelaciones\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:44:14.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PracticarContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ASP NET CORE Web API\\PracticaRelaciones\\PracticaRelaciones\\Models\\PracticarContext.cs",
+              "RelativeDocumentMoniker": "PracticaRelaciones\\Models\\PracticarContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ASP NET CORE Web API\\PracticaRelaciones\\PracticaRelaciones\\Models\\PracticarContext.cs",
+              "RelativeToolTip": "PracticaRelaciones\\Models\\PracticarContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:17:41.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
